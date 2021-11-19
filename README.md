@@ -7,7 +7,7 @@ I'm a Husband, Father and Developer!
 - 👯 I’m looking to collaborate with other content creators
 - 😄 Pronouns: He/His
 - 🥅 2021 Goals: Become a Python Developer
-⚡ Fun fact: I'm passionate about sports car 
+- ⚡ Fun fact: I'm passionate about sports car 
 
 
 
