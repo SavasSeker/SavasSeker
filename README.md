@@ -12,13 +12,13 @@ I'm a Husband, Father and Developer!
 
 
 
-  <p align="left"> <a href="https://twitter.com/sav33996792" target="blank"><img src="https://img.shields.io/twitter/follow/sav33996792?logo=twitter&style=for-the-badge" alt="sav33996792" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/Savass_12" target="blank"><img src="https://img.shields.io/twitter/follow/sav33996792?logo=twitter&style=for-the-badge" alt="sav33996792" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sav33996792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sav33996792" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:17458575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="savas-seker" height="30" width="40" /></a>
-<a href="https://fb.com/zik_zak_savas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zik_zak_savas" height="30" width="40" /></a>
+<a href="https://twitter.com/Savass_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sav33996792" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17458575/savas-seker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="savas-seker" height="30" width="40" /></a>
+<a href="https://www.facebook.com/zik.zak.savas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zik_zak_savas" height="30" width="40" /></a>
 <a href="https://instagram.com/savasekerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="savasekerr" height="30" width="40" /></a>
 </p>
 
