@@ -2,8 +2,8 @@ Hi there, I'm Sav 👋
 
 I'm a Husband, Father and Developer!
 
-- 👀 I’m interested in Data Science and Web Developer
-- 🌱 I’m currently learning Python and Machine Learning
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning Python and JavaScript
 - 👯 I’m looking to collaborate with other content creators
 - 😄 Pronouns: He/His
 - 🥅 2021 Goals: Become a Python Developer
