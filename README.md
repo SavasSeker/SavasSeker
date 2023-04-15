@@ -6,7 +6,7 @@ I'm a Husband, Father and Developer!
 - 🌱 I’m currently learning Python and JavaScript
 - 👯 I’m looking to collaborate with other content creators
 - 😄 Pronouns: He/His
-- 🥅 2021 Goals: Become a Python Developer
+- 🥅 2023 Goals: Become a Software Enginner
 - ⚡ Fun fact: I'm passionate about sports car 
 - 📫 How to reach me: seker.savas94@gmail.com 
 
